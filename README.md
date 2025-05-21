@@ -221,7 +221,9 @@ Publish the website in the LocalHost.
 </html>
 ```
 # OUTPUT:
-![alt text](<proj/Screenshot 2025-05-11 190746.png>)
-![alt text](<proj/Screenshot 2025-05-11 190849.png>)
+![image](https://github.com/user-attachments/assets/b2be2cf0-4f8b-4a01-b290-9038b3758d10)
+
+![image](https://github.com/user-attachments/assets/0771d28c-7bd4-46cb-9513-64bb333d1978)
+
 # RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
